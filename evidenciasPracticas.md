@@ -70,5 +70,43 @@
 
 ![Captura0](Evidencias/Captura0.PNG)
 
-04
+
+
+# 05 - Crear almacenamiento de blobs
+
+![ejercicio5](Evidencias/ejercicio5.PNG)
+
+
+
+![ejercicio5a](Evidencias/ejercicio5a.PNG)
+
+![ejercicio5b](Evidencias/ejercicio5b.PNG)
+
+![ejercicio5c](Evidencias/ejercicio5c.PNG)
+
+
+
+![ejercicio5d](Evidencias/ejercicio5d.PNG)
+
+
+
+![ejercicio5e](Evidencias/ejercicio5e.PNG)
+
+![ejercicio5f](Evidencias/ejercicio5f.PNG)
+
+
+
+![ejercicio5g](Evidencias/ejercicio5g.PNG)
+
+
+
+![ejercicio5h](C:\local\Evidencias\ejercicio5h.PNG)
+
+![ejercicio5I](C:\local\Evidencias\ejercicio5I.PNG)
+
+![ejercicio5J](Evidencias/ejercicio5J.PNG)
+
+![ejercicio5K](Evidencias/ejercicio5K.PNG)
+
+
 

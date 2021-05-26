@@ -212,6 +212,60 @@
 
 ![ejercicio8.15](Evidencias/ejercicio8.15.PNG)
 
+# 09: Crear una máquina virtual con una plantilla
+
+
+
+![9.1](Evidencias/9.1.PNG)
+
+![9.2](Evidencias/9.2.PNG)
+
+
+
+![9.3](Evidencias/9.3.PNG)
+
+
+
+![9.4](Evidencias/9.4.PNG)
+
+
+
+![9.5](Evidencias/9.5.PNG)
+
+
+
+![9.6](Evidencias/9.6.PNG)
+
+
+
+![9.7](Evidencias/9.7.PNG)
+
+
+
+![9.8](Evidencias/9.8.PNG)
+
+
+
+# 
+
+![9.9](Evidencias/9.9.png)
+
+![9.10](Evidencias/9.10.PNG)
+
+
+
+![9.11](Evidencias/9.11.PNG)
+
+
+
+![9.12](Evidencias/9.12.PNG)
+
+
+
+
+
+
+
 
 
 

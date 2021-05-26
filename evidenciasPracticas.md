@@ -1,4 +1,6 @@
-**01 - Crear una máquina virtual en el portal**
+# 01 - Crear una máquina virtual en el portal
+
+
 
 ![ejercicio1](Evidencias/ejercicio1.PNG)
 
@@ -52,7 +54,9 @@
 
 
 
-**02 - Crear una aplic. web**
+# 02 - Crear una aplic. web
+
+
 
 ![ejercicio2](Evidencias/ejercicio2.PNG)
 
@@ -62,9 +66,7 @@
 
 ![ejercicio2b](Evidencias/ejercicio2b.PNG)
 
-
-
-**03 - Implementación de Azure Container Instances**
+# 03 - Implementación de Azure Container Instances
 
 
 
@@ -100,9 +102,9 @@
 
 
 
-![ejercicio5h](C:\local\Evidencias\ejercicio5h.PNG)
+![ejercicio5h](Evidencias/ejercicio5h.PNG)
 
-![ejercicio5I](C:\local\Evidencias\ejercicio5I.PNG)
+![ejercicio5I](Evidencias/ejercicio5I.PNG)
 
 ![ejercicio5J](Evidencias/ejercicio5J.PNG)
 
@@ -125,4 +127,66 @@
 ![ejercicio5P](Evidencias/ejercicio5P.PNG)
 
 
+
+# 06 - Crear una base de datos SQL
+
+
+
+![ejercicio6.1](Evidencias/ejercicio6.1.PNG)
+
+![ejercicio6.2](Evidencias/ejercicio6.2.PNG)
+
+![ejercicio6.3](Evidencias/ejercicio6.3.PNG)
+
+
+
+![ejercicio6.4](Evidencias/ejercicio6.4.PNG)
+
+![ejercicio6.5](Evidencias/ejercicio6.5.PNG)
+
+![ejercicio6.6](Evidencias/ejercicio6.6.PNG)
+
+![ejercicio6.7](Evidencias/ejercicio6.7.PNG)
+
+![ejercicio6.8](Evidencias/ejercicio6.8.PNG)
+
+![ejercicio6.9](Evidencias/ejercicio6.9.PNG)
+
+![ejercicio6.10](Evidencias/ejercicio6.10.PNG)
+
+![ejercicio6.11](Evidencias/ejercicio6.11.PNG)
+
+![ejercicio6.12](Evidencias/ejercicio6.12.PNG)
+
+
+
+
+
+# 17: Crear una directiva de Azure
+
+
+
+![17.1](Evidencias/17.1.PNG)
+
+![17.2](Evidencias/17.2.PNG)
+
+![17.3](Evidencias/17.3.PNG)
+
+![17.4](Evidencias/17.4.PNG)
+
+
+
+![17.5](Evidencias/17.5.PNG)
+
+![17.6](Evidencias/17.6.PNG)
+
+![17.7](Evidencias/17.7.PNG)
+
+![17.8](Evidencias/17.8.PNG)
+
+![17.9](Evidencias/17.9.PNG)
+
+![17.10](Evidencias/17.10.PNG)
+
+![17.11](Evidencias/17.11.PNG)
 

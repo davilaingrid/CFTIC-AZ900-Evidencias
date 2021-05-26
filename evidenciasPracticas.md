@@ -160,6 +160,60 @@
 
 
 
+# 08 - Implementar Azure Functions
+
+![ejercicio8.1](Evidencias/ejercicio8.1.PNG)
+
+
+
+![ejercicio8.2](Evidencias/ejercicio8.2.PNG)
+
+![ejercicio8.3](Evidencias/ejercicio8.3.PNG)
+
+![ejercicio8.4](Evidencias/ejercicio8.4.PNG)
+
+![ejercicio8.5](Evidencias/ejercicio8.5.PNG)
+
+![ejercicio8.6](Evidencias/ejercicio8.6.PNG)
+
+
+
+![ejercicio8.7](Evidencias/ejercicio8.7.PNG)
+
+
+
+![ejercicio8.8](Evidencias/ejercicio8.8.PNG)
+
+
+
+![ejercicio8.9](Evidencias/ejercicio8.9.PNG)
+
+
+
+![ejercicio8.10](Evidencias/ejercicio8.10.PNG)
+
+
+
+![ejercicio8.11](Evidencias/ejercicio8.11.PNG)
+
+
+
+![ejercicio8.12](Evidencias/ejercicio8.12.PNG)
+
+
+
+![ejercicio8.13](Evidencias/ejercicio8.13.PNG)
+
+
+
+![ejercicio8.14](Evidencias/ejercicio8.14.PNG)
+
+
+
+![ejercicio8.15](Evidencias/ejercicio8.15.PNG)
+
+
+
 
 
 # 17: Crear una directiva de Azure

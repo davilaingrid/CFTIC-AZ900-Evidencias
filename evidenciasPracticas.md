@@ -466,6 +466,50 @@
 
 
 
+# 12 - Implementar Azure Key Vault
+
+![12.1](Evidencias/12.1.PNG)
+
+
+
+![12.2](Evidencias/12.2.PNG)
+
+![12.3](Evidencias/12.3.PNG)
+
+
+
+![12.4](Evidencias/12.4.PNG)
+
+
+
+
+
+![12.5](Evidencias/12.5.PNG)
+
+
+
+![12.6](Evidencias/12.6.PNG)
+
+![12.7](Evidencias/12.7.png)
+
+
+
+![12.8](Evidencias/12.8.PNG)
+
+
+
+![12.9](Evidencias/12.9.PNG)
+
+![12.10](Evidencias/12.10.PNG)
+
+
+
+![12.11](Evidencias/12.11.PNG)
+
+
+
+![12.12](Evidencias/12.12.PNG)
+
 
 
 # 17: Crear una directiva de Azure

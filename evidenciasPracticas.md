@@ -388,9 +388,57 @@
 
 
 
+# 10 - Crear una VM con PowerShell
+
+![10.1](Evidencias/10.1.PNG)
 
 
 
+![10.2](Evidencias/10.2.PNG)
+
+
+
+![10.3](Evidencias/10.3.PNG)
+
+
+
+![10.4](Evidencias/10.4.PNG)
+
+
+
+![10.5](Evidencias/10.5.PNG)
+
+
+
+![10.6](Evidencias/10.6.PNG)
+
+
+
+![10.7](Evidencias/10.7.PNG)
+
+
+
+![10.8](Evidencias/10.8.PNG)
+
+
+
+![10.9](Evidencias/10.9.PNG)
+
+
+
+![10.10](Evidencias/10.10.PNG)
+
+
+
+![10.11](Evidencias/10.11.PNG)
+
+
+
+![10.12](Evidencias/10.12.PNG)
+
+
+
+![10.13](Evidencias/10.13.PNG)
 
 
 

@@ -1,3 +1,5 @@
+
+
 # 01 - Crear una máquina virtual en el portal
 
 
@@ -581,6 +583,38 @@
 
 
 ![14.2](Evidencias/14.2.PNG)
+
+
+
+# 15 - Administrar bloqueos de recursos
+
+![15.1](Evidencias/15.1.PNG)
+
+![15.2](Evidencias/15.2.PNG)
+
+
+
+![15.3](Evidencias/15.3.PNG)
+
+
+
+![15.4](Evidencias/15.4.PNG)
+
+
+
+
+
+![15.5](Evidencias/15.5.PNG)
+
+
+
+![15.6](Evidencias/15.6.PNG)
+
+
+
+![15.7](Evidencias/15.7.PNG)
+
+![15.8](Evidencias/15.8.PNG)
 
 
 

@@ -254,11 +254,35 @@
 
 # 07 - Implementar un Azure IoT Hub
 
+![7.1](Evidencias/7.1.PNG)
+
+![7.2](Evidencias/7.2.PNG)
+
+![7.3](Evidencias/7.3.PNG)
 
 
 
+![7.4](Evidencias/7.4.PNG)
 
 
+
+![7.5](Evidencias/7.5.PNG)
+
+
+
+![7.6](Evidencias/7.6.PNG)
+
+![7.7](Evidencias/7.7.PNG)
+
+![7.8](Evidencias/7.8.PNG)
+
+![7.9](Evidencias/7.9.PNG)
+
+
+
+![7.10](Evidencias/7.10.PNG)
+
+![7.11](Evidencias/7.11.PNG)
 
 
 

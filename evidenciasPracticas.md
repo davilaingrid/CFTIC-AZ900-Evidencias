@@ -96,15 +96,73 @@
 
 ![3.7](Evidencias/3.7.PNG)
 
-
-
-
-
-
-
 # 04: Crear una red virtual
 
+![4.1](Evidencias/4.1.PNG)
 
+![4.2](Evidencias/4.2.PNG)
+
+![4.3](Evidencias/4.3.PNG)
+
+![4.4](Evidencias/4.4.PNG)
+
+![4.5](Evidencias/4.5.PNG)
+
+![4.6](Evidencias/4.6.PNG)
+
+![4.7](Evidencias/4.7.PNG)
+
+![4.8](Evidencias/4.8.PNG)
+
+
+
+![4.9](Evidencias/4.9.PNG)
+
+
+
+![4.10](Evidencias/4.10.PNG)
+
+
+
+# 
+
+![4.11](Evidencias/4.11.PNG)
+
+
+
+![4.12](Evidencias/4.12.PNG)
+
+
+
+![4.13](Evidencias/4.13.PNG)
+
+
+
+![4.14](Evidencias/4.14.PNG)
+
+
+
+![4.15](Evidencias/4.15.PNG)
+
+
+
+![4.16](Evidencias/4.16.PNG)
+
+
+
+![4.17](Evidencias/4.17.PNG)
+
+
+
+![4.18](Evidencias/4.18.PNG)
+
+
+
+![4.19](Evidencias/4.19.PNG)
+
+
+
+![4.20](Evidencias/4.20.PNG)
 
 
 

@@ -676,3 +676,39 @@
 
 ![18.3](Evidencias/18.3.PNG)
 
+
+
+# 19 - Usar la calculadora de precios
+
+![19.0](Evidencias/19.0.PNG)
+
+![19.1](Evidencias/19.1.PNG)
+
+
+
+
+
+
+
+![19.2](Evidencias/19.2.PNG)
+
+
+
+![19.3](Evidencias/19.3.PNG)
+
+
+
+![19.4](Evidencias/19.4.PNG)
+
+![19.5](Evidencias/19.5.PNG)
+
+![19.6](Evidencias/19.6.PNG)
+
+![19.7](Evidencias/19.7.PNG)
+
+![19.8](Evidencias/19.8.PNG)
+
+![19.9](Evidencias/19.9.PNG)
+
+![19.10](Evidencias/19.10.PNG)
+

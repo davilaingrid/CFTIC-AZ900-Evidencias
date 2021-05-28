@@ -512,6 +512,66 @@
 
 
 
+# 13 - Tráfico de red segura
+
+![13.1](Evidencias/13.1.PNG)
+
+
+
+![13.2.0](Evidencias/13.2.0.PNG)
+
+
+
+![13.2.1](Evidencias/13.2.1.png)
+
+
+
+![13.3](Evidencias/13.3.PNG)
+
+
+
+![13.4.0](Evidencias/13.4.0.PNG)
+
+
+
+![13.4.1](Evidencias/13.4.1.png)
+
+
+
+
+
+![13.5](Evidencias/13.5.PNG)
+
+
+
+![13.6.0](Evidencias/13.6.0.PNG)
+
+
+
+![13.6.1](Evidencias/13.6.1.PNG)
+
+
+
+![13.7](Evidencias/13.7.PNG)
+
+
+
+![13.8](Evidencias/13.8.PNG)
+
+
+
+![13.9](Evidencias/13.9.PNG)
+
+
+
+![13.10](Evidencias/13.10.PNG)
+
+
+
+![13.11](Evidencias/13.11.PNG)
+
+
+
 # 17: Crear una directiva de Azure
 
 ![17.1](Evidencias/17.1.PNG)

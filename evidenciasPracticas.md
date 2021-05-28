@@ -712,3 +712,27 @@
 
 ![19.10](Evidencias/19.10.PNG)
 
+
+
+# 20 - Usar la calculadora de TCO de Azure
+
+![20.1](Evidencias/20.1.PNG)
+
+![20.2](Evidencias/20.2.PNG)
+
+![20.3](Evidencias/20.3.PNG)
+
+![20.4](Evidencias/20.4.PNG)
+
+
+
+![20.5](Evidencias/20.5.PNG)
+
+![20.6](Evidencias/20.6.PNG)
+
+![20.7](Evidencias/20.7.PNG)
+
+![20.8](Evidencias/20.8.PNG)
+
+![20.9](Evidencias/20.9.PNG)
+

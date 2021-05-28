@@ -618,6 +618,26 @@
 
 
 
+# 16 - Implementar etiquetado de recursos
+
+![16.1](Evidencias/16.1.PNG)
+
+
+
+![16.2](Evidencias/16.2.PNG)
+
+
+
+![16.3](Evidencias/16.3.png)
+
+![16.4](Evidencias/16.4.png)
+
+
+
+![16.5](Evidencias/16.5.PNG)
+
+
+
 
 
 # 17: Crear una directiva de Azure

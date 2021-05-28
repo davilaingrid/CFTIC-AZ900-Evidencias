@@ -2,7 +2,9 @@
 
 
 
-![ejercicio1](Evidencias/ejercicio1.PNG)
+![ejercicio1](Evidencias/1.PNG)
+
+
 
 ![ejercicio1a](Evidencias/ejercicio1a.PNG)
 
@@ -70,7 +72,39 @@
 
 
 
-![Captura0](Evidencias/Captura0.PNG)
+![3.1](Evidencias/3.1.PNG)
+
+![3.2](Evidencias/3.2.PNG)
+
+
+
+![3.3](Evidencias/3.3.PNG)
+
+
+
+![3.4](Evidencias/3.4.PNG)
+
+
+
+![3.5](Evidencias/3.5.PNG)
+
+
+
+![3.6](Evidencias/3.6.png)
+
+
+
+![3.7](Evidencias/3.7.PNG)
+
+
+
+
+
+
+
+# 04: Crear una red virtual
+
+
 
 
 
@@ -157,6 +191,16 @@
 ![ejercicio6.11](Evidencias/ejercicio6.11.PNG)
 
 ![ejercicio6.12](Evidencias/ejercicio6.12.PNG)
+
+
+
+# 07 - Implementar un Azure IoT Hub
+
+
+
+
+
+
 
 
 

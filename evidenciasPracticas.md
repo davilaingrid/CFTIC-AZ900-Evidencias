@@ -572,6 +572,20 @@
 
 
 
+# 14: Administrar el acceso con RBAC
+
+
+
+![14.1](Evidencias/14.1.PNG)
+
+
+
+![14.2](Evidencias/14.2.PNG)
+
+
+
+
+
 # 17: Crear una directiva de Azure
 
 ![17.1](Evidencias/17.1.PNG)

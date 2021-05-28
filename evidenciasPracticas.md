@@ -736,6 +736,38 @@
 
 ![20.9](Evidencias/20.9.PNG)
 
+# 21 - Calcular el Acuerdo de nivel de servicio compuesto
+
+![21.1](Evidencias/21.1.PNG)
+
+![21.2](Evidencias/21.2.PNG)
+
+![21.3](Evidencias/21.3.PNG)
+
+![21.4](Evidencias/21.4.PNG)
+
+![21.5](Evidencias/21.5.PNG)
+
+
+
+# 
+
+
+
+![21.6](Evidencias/21.6.PNG)
+
+![21.7](Evidencias/21.7.PNG)
+
+![21.8](Evidencias/21.8.PNG)
+
+![21.9](Evidencias/21.9.PNG)
+
+![21.10](Evidencias/21.10.PNG)
+
+
+
+
+
 # 22 - Open a Support Request
 
 ![22.1](Evidencias/22.1.png)

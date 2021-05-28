@@ -1,5 +1,3 @@
-
-
 # 01 - Crear una máquina virtual en el portal
 
 
@@ -665,4 +663,16 @@
 ![17.10](Evidencias/17.10.PNG)
 
 ![17.11](Evidencias/17.11.PNG)
+
+# 18 - Explorar el Centro de confianza
+
+![18.1](Evidencias/18.1.PNG)
+
+
+
+![18.2](Evidencias/18.2.PNG)
+
+
+
+![18.3](Evidencias/18.3.PNG)
 

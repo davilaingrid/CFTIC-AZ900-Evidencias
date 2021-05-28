@@ -736,3 +736,33 @@
 
 ![20.9](Evidencias/20.9.PNG)
 
+# 22 - Open a Support Request
+
+![22.1](Evidencias/22.1.png)
+
+
+
+![22.2](Evidencias/22.2.png)
+
+
+
+![22.3](Evidencias/22.3.PNG)
+
+
+
+![22.4](Evidencias/22.4.PNG)
+
+
+
+![22.5](Evidencias/22.5.PNG)
+
+
+
+![22.6](Evidencias/22.6.PNG)
+
+![22.7](Evidencias/22.7.PNG)
+
+
+
+![22.8](Evidencias/22.8.PNG)
+

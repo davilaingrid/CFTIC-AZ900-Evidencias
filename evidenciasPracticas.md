@@ -442,11 +442,33 @@
 
 
 
+# 11 - Crear una VM con la CLI
+
+![11.1](Evidencias/11.1.PNG)
+
+
+
+![11.2](Evidencias/11.2.png)
+
+![11.3](Evidencias/11.3.PNG)
+
+
+
+![11.4](Evidencias/11.4.PNG)
+
+
+
+![11.5](Evidencias/11.5.PNG)
+
+
+
+![11.6](Evidencias/11.6.PNG)
+
+
+
 
 
 # 17: Crear una directiva de Azure
-
-
 
 ![17.1](Evidencias/17.1.PNG)
 
